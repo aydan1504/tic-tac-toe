@@ -1,0 +1,22 @@
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\99451\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\99451\OneDrive\Рабочий стол\New folder\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
